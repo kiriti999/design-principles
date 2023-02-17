@@ -1,3 +1,5 @@
+/* The single responsibility principle says that a class or module should have only a single purpose. */
+
 /* #region Bad example */
 class UserSettings1 {
     user: any;
